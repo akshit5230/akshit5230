@@ -17,7 +17,6 @@
 - 📫 Reach me on **myfanakki@gmail.com**
 
 - 📄 Know about my experiences on my portfolio [https://akshitw.in](https://akshitw.in)
-<br>
 <h3 align="center">Connect with me on</h3>
 <p align="center">
 <a href="https://dev.to/akshitw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akshitw" height="30" width="40" /></a>
