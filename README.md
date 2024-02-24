@@ -4,6 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshit5230&label=Profile%20views&color=00a9f4&style=for-the-badge" alt="akshit5230" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshit5230&row=1&theme=algolia&no-bg=true&no-frame=true" alt="akshit5230" /></a> </p>
+
 - 🔭 I’m currently working on **building great things**
 
 - 🌱 I’m currently learning **Software Architecture and Design Patterns**
@@ -17,6 +18,7 @@
 - 📫 Reach me on **myfanakki@gmail.com**
 
 - 📄 Know about my experiences on my portfolio [https://akshitw.in](https://akshitw.in)
+
 <h3 align="center">Connect with me on</h3>
 <p align="center">
 <a href="https://dev.to/akshitw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akshitw" height="30" width="40" /></a>
