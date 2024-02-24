@@ -4,7 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshit5230&label=Profile%20views&color=00a9f4&style=for-the-badge" alt="akshit5230" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshit5230&row=1&theme=algolia&no-bg=true&no-frame=true" alt="akshit5230" /></a> </p>
-<br>
 - 🔭 I’m currently working on **building great things**
 
 - 🌱 I’m currently learning **Software Architecture and Design Patterns**
