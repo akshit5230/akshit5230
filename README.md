@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend & mobile app developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshit5230&label=Profile%20views&color=0e75b6&style=flat" alt="akshit5230" /> </p>
 
@@ -13,11 +13,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@akshit5230](https://medium.com/@akshit5230)
 
-- 💬 Ask me about **React Native, Flutter, Swift, Kotlin, Vue**
+- 💬 Ask me about **Javascript, React Native, Flutter, Swift, Kotlin, Vue, Arduino, Raspberry Pi**
 
-- 📫 How to reach me **myfanakki@gmail.com**
+- 📫 Reach me on **myfanakki@gmail.com**
 
-- 📄 Know about my experiences [https://akshitw.in](https://akshitw.in)
+- 📄 Know about my experiences on my portfolio [https://akshitw.in](https://akshitw.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshit5230&show_icons=true&locale=en" alt="akshit5230" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshit5230&" alt="akshit5230" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=akshit5230&theme=sea-dark&hide_border=true&border_radius=6" alt="akshit5230" /></p>
