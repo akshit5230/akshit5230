@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshit</h1>
 <h3 align="center">A passionate frontend & mobile app developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshit5230&label=Profile%20views&color=0e75b6&style=flat" alt="akshit5230" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshit5230&label=Profile%20views&color=00a9f4&style=for-the-badge" alt="akshit5230" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshit5230" alt="akshit5230" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshit5230&row=1&theme=flat&no-bg=true&no-frame=true" alt="akshit5230" /></a> </p>
 
 - 🔭 I’m currently working on **building great things**
 
