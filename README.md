@@ -17,7 +17,7 @@
 
 - 📫 Reach me on **myfanakki@gmail.com**
 
-- 📄 Know about my experiences on my portfolio [https://akshitw.in](https://akshitw.in)
+- 📄 Know about my experiences on my portfolio [https://akshit5230.github.io](https://akshit5230.github.io)
 
 <h3 align="center">Connect with me on</h3>
 <p align="center">
